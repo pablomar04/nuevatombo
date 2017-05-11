@@ -18,7 +18,7 @@ class TomboView extends View {
 
     public function showCargaExitosa(){
     
-    $this->smarty->display('cargaExitosa.tpl');
+    $this->smarty->display('carga.tpl');
   }
 
 

@@ -41,5 +41,7 @@ class TomboModel extends Modelo{
     $cupones = $sentencia1->fetchAll(PDO::FETCH_ASSOC);
     return $cupones;
   }
+
+
 }
 ?>

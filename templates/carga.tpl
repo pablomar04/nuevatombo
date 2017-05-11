@@ -25,9 +25,9 @@
           <li class="nav-item active">
             <a class="nav-link" href="index.php?action=home">Fecha<span class="sr-only">(current)</span></a>
           </li>
-          <li class="nav-item">
-            <a class="nav-link" href="index.php?action=cupones">Cupones</a>
-          </li>
+          <!--<li class="nav-item">
+            <a class="nav-link" href="index.php?action=cupones">Jugadas</a>
+          </li>-->
         </ul>
       </div>
     </nav>
