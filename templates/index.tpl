@@ -38,7 +38,7 @@
     <div class="row">
       <div class="col-2"></div>
       <div class="col-8">
-      <h1>Fecha actual</h1>
+      <h1>Fecha 24</h1>
 
       <form action="index.php?action=addCupon" method="POST">
 
